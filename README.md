@@ -6,7 +6,7 @@ Project 2 is really exciting! It can also, by nature, sound a bit overwhelming.
 
 We want to see you succeed! So over this weekend, we want you to come up with some ideas for your Project 2. 
 
-**We will be looking for 2 project ideas, turned in via pull request to this repository, that illustrate a rough concept of what you might do for your project 2!**
+**We will be looking for 3 project ideas, turned in via pull request to this repository, that illustrate a rough concept of what you might do for your project 2!**
 
 ## Technical Requirements for P2:
 
@@ -25,7 +25,7 @@ Your app must:
 
 
 
-## Write your ideas below this line:
+## Write your 3 ideas below this line:
 <hr>
 
 
