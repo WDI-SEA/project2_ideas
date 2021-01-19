@@ -28,7 +28,9 @@ Your app must:
 ## Write your 3 ideas below this line:
 <hr>
 ## Idea 1: Genshin Impact Character Tracker
+
 Track your Mond-stats 
+
 Instead of having to log in to your game each time you want to see what your character's stats are, or what weapons equipped by your characters have ascension material dungeons for today, document your character statistics in the Genshin Impact Character Tracker for ease-of-reference.
 
 You can also take notes on what ascension materials you still need for your characters or their weapons, and which specific artifacts you need for each character. You can add, edit, and delete these goals on your dashboard.
