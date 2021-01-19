@@ -9,6 +9,7 @@ We want to see you succeed! So over this weekend, we want you to come up with so
 **We will be looking for 3 project ideas, turned in via pull request to this repository, that illustrate a rough concept of what you might do for your project 2!**
 
 ## Technical Requirements for P2:
+ [Link to Specs](https://gawdiseattle.gitbook.io/wdi/11-projects/project-2)
 
 Your app must:
 - Have at least 2 models (more if they make sense) that represents the main functional idea for your app. This doesn't include join tables or the user model which should be part of your class's boilerplate code.
