@@ -41,7 +41,7 @@ There are some APIs for Genshin Impact characters and their artifacts, but they'
 
 <hr>
 ## Idea 2: Book Buddy
-Instead of commenting how you feel about a book after you've finished reading it, you can comment on it throughout reading through it and journal your feelings for a book.
+Instead of commenting how you feel about a book after you've finished reading it, you can comment on it throughout reading through it and journal your feelings for a book. You can also just track which books you want to read, are currently reading, and have finished reading if you would rather not review/comment on any.
 
 Log in to view which books you've read and write, update, or delete your comments / reviews as you read through the book.
 
@@ -53,8 +53,14 @@ Models would be needed for books (author, title, number of pages), comments (whi
 
 <hr>
 ## Idea 3: 
+Important Purchases
+Same as book buddy but for storing the cost and information regarding large purchases you've made. That way you can remember how much you paid for something, plus the details about that transaction.
 
+For example, cost, date of purchase, warranty details, specifications.
 
+Another table would be for user-generated categories, since one item can have multiple categories. An example of a category could be 'health,' 'over $1k,' or 'planned' vs 'impulse' purchases. 
+
+Can also creating a shopping list of things that eventually need to be purchased or will be purchased, and use an API to grab Amazon links for similar items. 
 
 
 
